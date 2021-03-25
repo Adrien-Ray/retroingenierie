@@ -1,0 +1,4 @@
+A FAIRE:
+	- landing-page:
+		- auteur: Rakesh Mondal
+		- licence: CC by 4.0
